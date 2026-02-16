@@ -1,11 +1,11 @@
 {
   "NAME": "InterstellarPack",
   "URL": "https://raw.githubusercontent.com/linuxgurugamer/InterstellarPack/refs/heads/master/InterstellarPack.version",
-  "DOWNLOAD": "https://github.com/linuxgurugamer/InterstellarPack/releases",
+  "DOWNLOAD": "https://github.com/linuxgurugamer/KWRocketrInterstellarPackyRedux/releases",
   "VERSION": {
     "MAJOR": 0,
     "MINOR": 1,
-    "PATCH": 2,
+    "PATCH": 0,
     "BUILD": 0
   },
   "KSP_VERSION": {

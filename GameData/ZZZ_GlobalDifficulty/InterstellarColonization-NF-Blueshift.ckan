@@ -31,6 +31,11 @@ depends:
 - name: B9PartSwitch
 - name: PersistentRotationUpgraded
 - name: BackgroundResources
+- name: ZeroMiniAVC
+recommends:
 - name: TweakScaleRescaled
 - name: TweakScaleRescaled-SafetyNet
-- name: ZeroMiniAVC
+supports:
+- name: TweakScale
+- name: TweakScaleCompanion
+- name: TweakScaleCompanion-ReStockPlus
